@@ -1,0 +1,24 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+/* .all{
+    display:flex;
+    justify-content: center;
+    margin-top: 20%;
+    
+} */
+/* .user-info{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color: aqua;
+}
+.info{
+    margin-right: 10%;
+}
+     */
+h1{
+    color: blue;
+    background-image: url();
+}

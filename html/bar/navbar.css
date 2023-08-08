@@ -1,0 +1,21 @@
+.navbar{
+    background-color: black;
+    color: antiquewhite;
+    font-style: italic ;
+    font-size: large;
+    height: 50px;
+    padding-left: 1%;
+    opacity: 80%;
+}
+   
+.userinfo{
+    padding-right: 59%;
+}
+
+#logo{
+    width: 45px;
+    height: 45px;
+    padding-bottom: 5%;
+    
+}
+

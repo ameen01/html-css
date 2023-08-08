@@ -1,0 +1,20 @@
+.ameen{
+    background-color: red;
+    height: 200px; width: 200px;
+}
+.square{
+    background-color: green;
+    height: 200px; width: 200px; 
+     background-image: url(T.jpg);
+    
+}
+
+.blue{
+    background-color: yellow;
+    height: 200px; width: 200px;
+    
+}
+
+{
+    background-image: url(T.jpg);
+}

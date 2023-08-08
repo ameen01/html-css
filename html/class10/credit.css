@@ -1,0 +1,22 @@
+.card{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: dotted;
+    margin-top: 10%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    color: beige;
+    font-size: large;
+}
+
+h2{
+    
+}

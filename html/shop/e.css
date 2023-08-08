@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top-bar{
+    background-color: rgb(109, 98, 98);
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+}
+
+.user-cart{
+    margin-top: 20px;
+}
+
+#star{
+    margin-left: 35px;
+}
+
+.search-input{
+    margin-top: 20px;
+    display: flex;
+    height:50%;
+}
+
+#search-click{
+    width: 60px;
+    background-color: rgb(221, 52, 52);
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;    
+}
+
+.nav-bar{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    margin-left: 20%;
+    stroke: black;
+    text-decoration: underline red;
+    
+}
+.new-deals{
+    margin-top: 15px;
+    margin-left: 20%;
+}
+#new{
+    width: 300px;
+    height: 300px;
+    border: darkturquoise;
+    border-radius: 3%;
+}
+h2{
+    color: red;
+}
+.products{
+    margin-top: 1%;
+    margin-left: 5%;
+    /* display: flex;
+    align-items: center; */
+
+}
+
+.sub-Categories{
+    margin-right: 17%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60%; 
+    border: solid 0.5 black;
+    text-decoration: underline red;
+
+}
+
+.sub-Categories:hover{
+    color: red;
+    font-size:large;
+    
+}

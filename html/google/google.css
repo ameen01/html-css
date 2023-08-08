@@ -1,0 +1,22 @@
+#logo{
+    height: 200px;
+    margin-bottom: 1%;
+}
+.search{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+#search-bar{
+    width: 400px;
+    height: 39px;
+    border-radius: 10px;
+    opacity: 85%;
+}
+
+.btns{
+    margin-top: 1%;
+}

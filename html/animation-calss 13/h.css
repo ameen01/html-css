@@ -1,0 +1,79 @@
+/* Header */
+.header {
+    background-color: #00acee;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f5f8fa;
+    height: 60px;
+    padding: 0 20px;
+  }
+  
+  .navbar a {
+    color: #66757f;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  /* Profile */
+  .profile {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .profile-image {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .profile-info {
+    margin-left: 20px;
+  }
+  
+  .profile-name {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .profile-handle {
+    color: #657786;
+    font-size: 14px;
+  }
+  
+  .profile-stats {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .stat-value {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .stat-label {
+    color: #657786;
+    font-size: 14px;
+  }
+  
+  /* Tweets */
+  .tweets {
+    display: flex;
+    flex-wrap: wrap;
+}

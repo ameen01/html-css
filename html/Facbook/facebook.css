@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    height: 45px;
+
+}
+#profile{
+   margin-left: 20%;
+   border-radius: 50%;
+   margin-top: 50%;
+}
+.profile-imgs{
+    background-image: url(back-img.png);
+    width: 700px;
+    height: 450px;
+}

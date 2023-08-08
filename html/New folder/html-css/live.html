@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Livestream Website</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Livestreams</a>
+            <a href="#">About</a>
+        </nav>
+        <form>
+            <input type="text" placeholder="Search">
+            <button>Search</button>
+        </form>
+    </header>
+    <main>
+        <div class="livestream-container">
+            <div class="video-player"></div>
+            <div class="livestream-info">
+                <h2>Livestream Title</h2>
+                <p>Livestream Description</p>
+                <div class="livestream-stats">
+                    <p>Viewers: 100</p>
+                    <p>Start Time: 12:00 PM</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>Copyright ©2022 My Livestream Website</p>
+    </footer>
+</body>
+</html>

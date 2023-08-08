@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    background-color: blanchedalmond;
+    width: 500px;
+    margin-left: 32%;
+    margin-top: 10%;
+    border-style: dotted;
+    border-radius: 3%;
+    column-count: 4;
+
+
+}
+img{
+    width: 80px;
+    height: 30px;
+    
+}
+form{
+display: flex;
+flex-direction: column;    
+    
+}

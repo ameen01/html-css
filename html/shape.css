@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(36, 50, 50);
+    margin: 0;
+    padding: 0;
+    
+}
+.top-row{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.top-row1{ 
+    background-color: blue;
+    height: 200px; width: 200px;
+}
+
+.top-row2{
+    background-color: rgb(23, 23, 31);
+    height: 200px; width: 200px;
+}
+
+.top-row3{
+    background-color: rgb(31, 171, 21);
+    height: 200px; width: 200px;
+}
